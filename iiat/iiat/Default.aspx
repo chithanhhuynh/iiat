@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-
+            <p>Xin chao</p>
         </div>
     </form>
 </body>
