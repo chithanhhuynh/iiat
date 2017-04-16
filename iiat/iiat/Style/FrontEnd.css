@@ -1,0 +1,52 @@
+﻿* {
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial,'Times New Roman';
+}
+
+body {
+    width: 100%;
+    position: fixed;
+    height: 1200px;
+    background-color: cyan;
+}
+
+#header {
+    width: 100%;
+    padding: 10px;
+    height: 100px;
+}
+
+.ibtnLogo {
+    width: 20%;
+    height: 100px;
+    background-color: red;
+}
+
+.vung {
+    margin: auto;
+}
+
+.txtSearch {
+    height: 50px;
+    float: right;
+    width: 40%;
+}
+
+.left {
+    float: left;
+    width: 20%;
+    height: 100%;
+    background-color: white;
+}
+
+.right {
+    float: right;
+    width: 60%;
+    height: 100%;
+    background-color: white;
+}
+
+#menu {
+    clear: both;
+}
